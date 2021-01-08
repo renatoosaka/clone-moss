@@ -1,0 +1,97 @@
+import Header from "./components/header"
+import Hero from "./components/hero";
+
+export default function Home() {
+  return (
+    <div>
+      <Header />
+      <Hero />
+      <div className="flex flex-col max-w-7xl m-auto p-4">
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>        
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>           
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>        
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>      
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>        
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>
+        <p>Texto</p>      
+      </div>
+    </div>
+  )
+}
