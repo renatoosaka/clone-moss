@@ -3,7 +3,7 @@ import Document, { Head, Html, Main, NextScript } from 'next/document'
 class MyDocument extends Document {
   render() {
     return (
-      <Html lang="pt-br">
+      <Html lang="pt-BR">
         <Head>
           <meta charSet="UTF-8" />
           <link rel="preconnect" href="https://fonts.gstatic.com" />
